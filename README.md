@@ -1,2 +1,2 @@
-# nestjs-sql
-练习nestjs连数据库
+npm install
+npm run start

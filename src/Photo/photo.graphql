@@ -1,0 +1,13 @@
+type Photo {
+  id: Int
+  name: String
+  description: String
+  filename: String
+  views: Int
+  isPublish: Boolean
+}
+
+type Query {
+  all: [Photo]
+  one: Photo
+}
